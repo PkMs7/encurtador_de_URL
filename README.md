@@ -1,2 +1,3 @@
-# encurtador_de_URL
-Encurtador de URL
+# encurtador_de_URL - DIO
+
+Projeto feito no bootcamp Spread - FULL STACK da plataforma DIO
